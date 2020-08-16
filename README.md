@@ -2,9 +2,9 @@
 
 Hello😍
 
-| Language |         |            |
-| -------- | ------- | ---------- |
-| 🌼 C      | Linux   | Atmega 128 |
-| 🌹 C++    | Arduino | 🍑          |
-| 🌻 Python | PyQt5   | Flask      |
+| Language |         |            |      |
+| -------- | ------- | ---------- | ---- |
+| C        | Linux   | Atmega 128 | RPI  |
+| C++      | Arduino | 🍑          | 🍑    |
+| Python   | PyQt5   | Flask      | 🍑    |
 
