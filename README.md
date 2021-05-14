@@ -1,6 +1,10 @@
-## kimnanhee
+## Embedded Software Developer
 
-Hello😍
+**Language**
+
+C C++ Python
+
+
 
 | Language |         |            |                |         |
 | -------- | ------- | ---------- | -------------- | ------- |
