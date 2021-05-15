@@ -8,7 +8,7 @@ mail📧 : kimnanhee0225@gmail.com
 
 ### Interest
 
-- Embedded Software technologies such as IoT, Smart Farm, Smart Home, etc.
+- Embedded Software technologies such as IoT, Robot, Smart Farm, Smart Home, etc.
 
 - C language is my favorite programming language.
 
