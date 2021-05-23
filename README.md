@@ -10,11 +10,11 @@ mail📧 : kimnanhee0225@gmail.com
 
 - Embedded Software technologies such as IoT, Robot, Smart Farm, Smart Home, etc.
 
-- C language is my favorite programming language.
+- C language is my favorite programming language.📖
 
-- Bread🍞
+- Breads such ad red bean bread, bagels, croissants, etc.🥯
 
-​<br>
+<br>
 
 ### Tech Stack
 
@@ -22,7 +22,7 @@ mail📧 : kimnanhee0225@gmail.com
 
 - Operating System  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 
-- Hardware  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/> <img src="https://img.shields.io/badge/ATmega 128-DD3C38?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-60B4E4?style=flat-square&logoColor=white"/>
+- Hardware  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/> <img src="https://img.shields.io/badge/ATmega128-DD3C38?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-60B4E4?style=flat-square&logoColor=white"/>
 
 - etc  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
 
