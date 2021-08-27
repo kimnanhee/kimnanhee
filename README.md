@@ -24,7 +24,7 @@ mail📧 : kimnanhee0225@gmail.com
 
 - Hardware  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/> <img src="https://img.shields.io/badge/ATmega128-DD3C38?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-60B4E4?style=flat-square&logoColor=white"/>
 
-- etc  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
+- etc  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-41CD52?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
 
 <br>
 
