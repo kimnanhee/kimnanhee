@@ -1,6 +1,6 @@
 # 김난희(Kim NanHee)
 
-I am studying to grow into an `Embedded Syetem Developer`📕
+I am studying to grow into an `Developer`📕
 
 mail📧 : kimnanhee0225@gmail.com
 
