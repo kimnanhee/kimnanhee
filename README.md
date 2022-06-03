@@ -1,6 +1,6 @@
 # 김난희(Kim NanHee)
 
-I am studying to grow into an `Developer`📕
+I am studying to grow into an `Developer`
 
 mail📧 : kimnanhee0225@gmail.com
 
@@ -10,9 +10,7 @@ mail📧 : kimnanhee0225@gmail.com
 
 - Embedded Software technologies such as IoT, Robot, Smart Farm, Smart Home, etc.
 
-- C language is my favorite programming language.📖
-
-- Breads such ad red bean bread, bagels, croissants, etc.🥯
+- Python Backend and AI.
 
 <br>
 
@@ -25,7 +23,7 @@ mail📧 : kimnanhee0225@gmail.com
 - Hardware  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/> <img src="https://img.shields.io/badge/ATmega128-DD3C38?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-60B4E4?style=flat-square&logoColor=white"/>
 
 - SQL  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
-- 
+
 - etc  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
 
 <br>
