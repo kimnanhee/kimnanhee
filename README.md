@@ -1,7 +1,5 @@
 # 김난희(Kim NanHee)
 
-I am studying to grow into an `Developer`
-
 mail📧 : kimnanhee0225@gmail.com
 
 <br>
@@ -10,7 +8,7 @@ mail📧 : kimnanhee0225@gmail.com
 
 - Embedded Software technologies such as IoT, Robot, Smart Farm, Smart Home, etc.
 
-- Python Backend and AI.
+- Python Backend and Data engineering, ML.
 
 <br>
 
